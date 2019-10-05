@@ -34,7 +34,7 @@ To install database with data, we have added a SQL file in the repostory.
     - which have to run both in different terminals
   
   
-# AI Stats News: 86% Of Consumers Prefer Humans To Chatbots
+# Ai Stats News: 86% Of Consumers Prefer Humans To Chatbots, Wow!
 ## RIHAD VARIAWA
   
 A recent surveys, studies, forecasts and other quantitative assessments of the progress of Ai, highlighted the growing reluctance of U.S consumers to chat with chatbots, the growing expectations of Ai as a critical business component, and the growing employee skills gap due to the deployment of new technologies.
@@ -63,27 +63,24 @@ The U.S held on to the number one spot in IMD World Digital Competitiveness rank
 ## The Life of Data, the fuel for Ai
 52% of IT professionals know someone who still has access to a former employer’s applications and data [Ivanti online survey of more than 400 IT professionals](https://www.ivanti.com/blog/ivanti-identity-survey-results)
 
-## AI market forecasts
+## Ai market forecasts
 The worldwide market for enterprise applications of Ai is estimated to reach $107.3 billion in 2025, up from $7.6 billion in 2018 [Tractica](https://www.tractica.com/research/artificial-intelligence-for-enterprise-applications/)
 
 By 2020, Gartner predicts that 30% of all B2B companies will employ some kind of Ai to augment at least one of their primary sales processes [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-09-19-gartner-says-ai-to-have-significant-impact-on-sales-t)
 
 ## The robotics market worldwide is estimated to reach $248.5 billion by 2025, up from $48.9 billion in 2018 [Tractica]
-
 The Ai systems market in the Middle East and Africa is expected to reach $374.2 million in 2020, up from $261.8 million in 2018 and an anticipated $310.3 million in 2019 [IDC}(https://www.idc.com/getdoc.jsp?containerId=prMETA45546719)
 
 Telecommunications service providers will spend $11.2 billion annually on AI-driven software solutions across eight use cases by 2025, up from $419.0 million in 2018 [Tractica](https://www.tractica.com/research/artificial-intelligence-for-telecommunications-applications/)
 
-The worldwide market for smart home devices is expected to grow 23.5% year over year in 2019 to nearly 815 million device shipments and more than 1.39 billion in 2023 [IDC](https://www.idc.com/getdoc.jsp?containerId=prUS45540319)
+The worldwide market for smart home devices is expected to grow 23.5% year over year in 2019 to nearly 815 million device shipments and more than 1.39 billion in 2023 [IDC.](https://www.idc.com/getdoc.jsp?containerId=prUS45540319) In 2018, China’s video surveillance equipment market (excluding home video surveillance) reached $10.6 billion and is expected to reach $20.1 billion in 2023; driven by Ai technology, especially Edge Ai, the application of video surveillance has gradually expanded to more fields, such as passenger flow analysis, environmental pollution monitoring and insurance loss determination [IDC](https://www.idc.com/getdoc.jsp?containerId=prCHE45536619)
 
-In 2018, China’s video surveillance equipment market (excluding home video surveillance) reached $10.6 billion and is expected to reach $20.1 billion in 2023; driven by AI technology, especially Edge Ai, the application of video surveillance has gradually expanded to more fields, such as passenger flow analysis, environmental pollution monitoring and insurance loss determination [IDC](https://www.idc.com/getdoc.jsp?containerId=prCHE45536619)
+## Ai quotable quotes
+“There is little doubt that Ai will contribute to profound transformations over the next decades. At its best, the technology has the potential to release us from mundane work and create a utopia in which all time is leisure time. At its worst, World War III might be fought by armies of superintelligent robots. But they won’t be led by HAL, Skynet or their newer Ai relatives. Even in the worst case, the robots will remain under our command, and we will have only ourselves to blame”—Anthony Zador and Yann LeCun
 
-## AI quotable quotes
-“There is little doubt that AI will contribute to profound transformations over the next decades. At its best, the technology has the potential to release us from mundane work and create a utopia in which all time is leisure time. At its worst, World War III might be fought by armies of superintelligent robots. But they won’t be led by HAL, Skynet or their newer AI relatives. Even in the worst case, the robots will remain under our command, and we will have only ourselves to blame”—Anthony Zador and Yann LeCun
+“The sensor hardware we are using is still a work in progress, especially in terms of achieving mass production and automotive-grade quality”—Alan Hall, Ford’s Argo Ai self-driving car subsidiary
 
-“The sensor hardware we are using is still a work in progress, especially in terms of achieving mass production and automotive-grade quality”—Alan Hall, Ford’s Argo AI self-driving car subsidiary
-
-“One of the key pain points is turning data into a human-friendly narrative, suitable for normal people”—Colin Priest, vice president of AI strategy, DataRobot
+“One of the key pain points is turning data into a human-friendly narrative, suitable for normal people”—Colin Priest, vice president of Ai strategy, DataRobot
 
 ## Data is eating the world quote of the week
 
