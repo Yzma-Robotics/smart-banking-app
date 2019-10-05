@@ -69,7 +69,7 @@ The worldwide market for enterprise applications of Ai is estimated to reach $10
 By 2020, Gartner predicts that 30% of all B2B companies will employ some kind of Ai to augment at least one of their primary sales processes [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-09-19-gartner-says-ai-to-have-significant-impact-on-sales-t)
 
 ## The robotics market worldwide is estimated to reach $248.5 billion by 2025, up from $48.9 billion in 2018 [Tractica]
-The Ai systems market in the Middle East and Africa is expected to reach $374.2 million in 2020, up from $261.8 million in 2018 and an anticipated $310.3 million in 2019 [IDC}(https://www.idc.com/getdoc.jsp?containerId=prMETA45546719)
+The Ai systems market in the Middle East and Africa is expected to reach $374.2 million in 2020, up from $261.8 million in 2018 and an anticipated $310.3 million in 2019 [IDC](https://www.idc.com/getdoc.jsp?containerId=prMETA45546719)
 
 Telecommunications service providers will spend $11.2 billion annually on AI-driven software solutions across eight use cases by 2025, up from $419.0 million in 2018 [Tractica](https://www.tractica.com/research/artificial-intelligence-for-telecommunications-applications/)
 
